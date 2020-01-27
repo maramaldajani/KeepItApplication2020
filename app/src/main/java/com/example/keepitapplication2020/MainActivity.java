@@ -18,5 +18,6 @@ public class MainActivity extends AppCompatActivity {
           DatabaseReference reference;
         reference = FirebaseDatabase.getInstance().getReference("Database").child("Text");
         reference.setValue("maram");
+        //this is my test
     }
 }
