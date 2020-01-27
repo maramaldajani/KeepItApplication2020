@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "454102981445",
+    "firebase_url": "https://keep-it-18dfe.firebaseio.com",
+    "project_id": "keep-it-18dfe",
+    "storage_bucket": "keep-it-18dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454102981445:android:1a3dde3567f56d2db0bc2c",
+        "android_client_info": {
+          "package_name": "com.example.keepitapplication2020"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454102981445-siv0mp9t1bcr2g1o9k2hg55qi5bn21mu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keepitapplication2020",
+            "certificate_hash": "c40a28c4dbe52bb073fd15a1fbf9d610120731ba"
+          }
+        },
+        {
+          "client_id": "454102981445-de43jp1iiv8r9njk8a7t1ab5bm2joon7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrJWIUoU4THIVfUY4ZylOaDW6GZCvU5W0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454102981445-de43jp1iiv8r9njk8a7t1ab5bm2joon7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
